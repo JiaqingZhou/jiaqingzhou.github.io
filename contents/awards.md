@@ -1,13 +1,5 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Nanotechnology Exploration Scholarship, National Center for Nanoscience and Technology , 2024.
+- Second Prize, USTB “Yaolan Cup” Science and Technology Competition , 2024
+- Silver Award, Student Research Training Program at University of Science and Technology Beijing , 2024.
+- Third Prize, the National College Students Chemical Experiment Competition , 2023
+- First-prize Scholarship of USTB, 2022.
