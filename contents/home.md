@@ -2,7 +2,7 @@
 
 
 #### Basic Information
-Email: U202140773@xs.ustb.edu.cn
+Email: U202140773@xs.ustb.edu.cn\
 Location: Beijing, China
 
 #### Biography
